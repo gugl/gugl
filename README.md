@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 💬 Ask me about how to
 - build products that your target audience cares about
 - launch MVPs
-- find focus on the core of your product
-- build reliable systems with great UX
+- focus on the core of your product
+- create reliable systems with great UX
 
 🔭 Visit my website at [guenterglueck.com](https://guenterglueck.com) or [LinkedIn Profile](https://www.linkedin.com/in/guenterglueck/)
 
