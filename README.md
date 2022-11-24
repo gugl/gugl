@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 🤝 I'm hirable for either contract or part time. 
 -->
 
-🌍 I'm open to remote work or on locatin in Vienna, Austria.
+🌍 Open to remote work or on locatin in Vienna, Austria.
 
-👀 I’m interested in Elixir/Phoenix/LiveView, DDD and CQRS and Terraform
+👀 Interested in Elixir/Phoenix/LiveView, DDD and CQRS and Terraform
 
 📫 How to reach me: gugl@guenterglueck.com
 
