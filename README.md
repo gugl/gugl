@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 👀 Building products with Elixir/Phoenix/LiveView, DDD, CQRS, and Terraform
 
-📫 How to reach me: gugl@guenterglueck.com
+🔭 Visit my [website](https://guenterglueck.com)
+
+📫 Reach me at gugl@guenterglueck.com
 
 😄 Pronouns: he/him
 
