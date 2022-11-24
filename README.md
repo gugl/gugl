@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 👀 Building products with Elixir/Phoenix/LiveView, DDD, CQRS, and Terraform
 
 💬 Ask me about how to
-- how to build products
+- build products that your target audience care about
 - launch MVPs
 - find focus on the core of your product
 - build reliable systems with great UX
