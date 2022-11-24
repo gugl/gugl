@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🌍 Open to remote work or on locatin in Vienna, Austria.
 
-👀 Building products with Elixir/Phoenix/LiveView, DDD and CQRS and Terraform
+👀 Building products with Elixir/Phoenix/LiveView, DDD, CQRS, and Terraform
 
 📫 How to reach me: gugl@guenterglueck.com
 
