@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 🤝 I'm hirable for either contract or part time. 
+-->
 
 🌍 I'm open to remote work or on locatin in Vienna, Austria.
 
