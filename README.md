@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🤝 I'm hirable for either contract or part time. 
 -->
 
-🌍 Open to remote work or on locatin in Vienna, Austria.
+🌍 Open to remote work or on site in Vienna, Austria.
 
 👀 Building products with Elixir/Phoenix/LiveView, DDD, CQRS, and Terraform
 
