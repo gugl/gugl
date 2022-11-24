@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 👀 Building products with Elixir/Phoenix/LiveView, DDD, CQRS, and Terraform
 
+💬 Ask me about how to build products, launch MVPs, find focus on the core of your product, build reliable systems with great UX.
+
 🔭 Visit my website at [guenterglueck.com](https://guenterglueck.com) or [LinkedIn Profile](https://www.linkedin.com/in/guenterglueck/)
 
 📫 Reach me at gugl@guenterglueck.com
